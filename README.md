@@ -1,0 +1,27 @@
+- git status ==> pour voir l'état des fichiers
+
+- git add filename ==> pour envoyer le fichier dans le staging area
+
+- git commit -m "message" ==> pour nommer le fichier
+
+- git push origin main ==> pour envoyer le fichier sur la branche principale
+
+- git checkout -b branch_name ==> pour créer et travailler sur une nouvelle branche
+
+- git push origin branch_name ==> pour envoyer le fichier sur la nouvelle branche
+
+- git checkout main ==> pour revenir sur la branche principale
+
+- git pull ==> pour ramener toutes les modifications en local 
+
+- git branch ==> pour voir la branche sur laquelle on se trouve
+
+- git branch -d branch_name ==> pour supprimer une branche
+
+- git log --oneline ==> pour avoir l'historique des commit 
+
+- git blame filename ==> pour voir qui a ajouté chaque ligne dans un fichier
+
+- git restore --staged filename ==> pour annuler un git add et enlever le fichier du staging area
+
+- git checkout commit_code ==> pour aller sur un commit précédent
